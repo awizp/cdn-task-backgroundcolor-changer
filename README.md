@@ -1,6 +1,6 @@
 ## ⚡ Background colour changer | Task 8
 
-    A Javascript knowledge, creating buttons to generate colors in backgorund
+    A Javascript knowledge, creating buttons to generate colors in background
 
 ### 📒 Stacks used:
 
@@ -8,7 +8,7 @@
    2. Tailwindcss
    3. Vite
 
-**🔗 demo:** [awizp-js.netlify.app](https://awizp-js.netlify.app/)
+**🔗 demo:** [awizp-js.netlify.app](https://awizp-js.netlify.app/components/task8/)
 
 ---
  
